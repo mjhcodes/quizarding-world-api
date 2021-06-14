@@ -1,0 +1,105 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "magical_people",
+      "question": "When transporting Harry to a safe house, who does Mundungus Fletcher pair up with?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mad-Eye Moody",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": "Nymphadora Tonks",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": "Kingsley Shacklebolt",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "answer": "Remus Lupin",
+          "correct": false
+        }
+      ],
+      "character_theme": ["harry"],
+      "house_theme": ["gryffindor"]
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "full_name": "harry potter",
+      "first_name": "harry",
+      "last_name": "potter",
+      "house": "gryffindor",
+      "avatar": "",
+      "wand": {
+        "id": 1,
+        "description": "11in. holly, phoenix feather",
+        "img": "",
+        "owner": "harry",
+        "house": "gryffindor"
+        
+      },
+      "possessions": [
+        {
+          "id": 1,
+          "name": "hedwig",
+          "img": "",
+          "order": 1,
+          "owner": "harry",
+          "house": "gryffindor"
+        },
+        {
+          "id": 2,
+          "name": "firebolt",
+          "img": "",
+          "order": 2,
+          "owner": "harry",
+          "house": "gryffindor"
+        },
+        {
+          "id": 3,
+          "name": "cloak of invisibility",
+          "img": "",
+          "order": 3,
+          "owner": "harry",
+          "house": "gryffindor"
+        },
+        {
+          "id": 4,
+          "name": "marauder's map",
+          "img": "",
+          "order": 4,
+          "owner": "harry",
+          "house": "gryffindor"
+        }
+      ]
+    }
+  ],
+  "spells": [
+    {
+      "id": 1,
+      "name": "diffindo",
+      "type": "50/50",
+      "description": "severs an object into two pieces"
+    },
+    {
+      "id": 2,
+      "name": "legilimens",
+      "type": "phone",
+      "description": "allows the user to gain access to a person's mind and memories"
+    },
+    {
+      "id": 3,
+      "name": "revelio",
+      "type": "clue",
+      "description": "used to reveal concealed objects, messages, invisible things, and passages"
+    }
+  ]
+}
