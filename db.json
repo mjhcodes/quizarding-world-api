@@ -37,11 +37,11 @@
       "first_name": "harry",
       "last_name": "potter",
       "house": "gryffindor",
-      "avatar": "",
+      "img": "avatar.png",
       "wand": {
         "id": 1,
-        "description": "11in. holly, phoenix feather",
-        "img": "",
+        "description": "11\" holly wood, phoenix feather",
+        "img": "wand.png",
         "owner": "harry",
         "house": "gryffindor"
         
@@ -50,7 +50,7 @@
         {
           "id": 1,
           "name": "hedwig",
-          "img": "",
+          "img": "hedwig.png",
           "order": 1,
           "owner": "harry",
           "house": "gryffindor"
@@ -58,7 +58,7 @@
         {
           "id": 2,
           "name": "firebolt",
-          "img": "",
+          "img": "firebolt.png",
           "order": 2,
           "owner": "harry",
           "house": "gryffindor"
@@ -66,7 +66,7 @@
         {
           "id": 3,
           "name": "cloak of invisibility",
-          "img": "",
+          "img": "cloak.png",
           "order": 3,
           "owner": "harry",
           "house": "gryffindor"
@@ -74,10 +74,310 @@
         {
           "id": 4,
           "name": "marauder's map",
-          "img": "",
+          "img": "map.png",
           "order": 4,
           "owner": "harry",
           "house": "gryffindor"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "full_name": "hermione granger",
+      "first_name": "hermione",
+      "last_name": "granger",
+      "house": "gryffindor",
+      "img": "avatar.png",
+      "wand": {
+        "id": 2,
+        "description": "10 3/4\" vine wood, dragon heartstring",
+        "img": "wand.png",
+        "owner": "hermione",
+        "house": "gryffindor"
+        
+      },
+      "possessions": [
+        {
+          "id": 5,
+          "name": "time turner",
+          "img": "time_turner.png",
+          "order": 1,
+          "owner": "hermione",
+          "house": "gryffindor"
+        },
+        {
+          "id": 6,
+          "name": "charmed handbag",
+          "img": "handbag.png",
+          "order": 2,
+          "owner": "hermione",
+          "house": "gryffindor"
+        },
+        {
+          "id": 7,
+          "name": "revealer",
+          "img": "revealer.png",
+          "order": 3,
+          "owner": "hermione",
+          "house": "gryffindor"
+        },
+        {
+          "id": 8,
+          "name": "crookshanks",
+          "img": "crookshanks.png",
+          "order": 4,
+          "owner": "hermione",
+          "house": "gryffindor"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "full_name": "ron weasley",
+      "first_name": "ron",
+      "last_name": "weasley",
+      "house": "gryffindor",
+      "img": "avatar.png",
+      "wand": {
+        "id": 3,
+        "description": "14\" willow wood, unicorn tail hair",
+        "img": "wand.png",
+        "owner": "ron",
+        "house": "gryffindor"
+        
+      },
+      "possessions": [
+        {
+          "id": 9,
+          "name": "deluminator",
+          "img": "deluminator.png",
+          "order": 1,
+          "owner": "ron",
+          "house": "gryffindor"
+        },
+        {
+          "id": 10,
+          "name": "cleansweep eleven",
+          "img": "cleansweep_eleven.png",
+          "order": 2,
+          "owner": "ron",
+          "house": "gryffindor"
+        },
+        {
+          "id": 11,
+          "name": "chocolate frog cards",
+          "img": "chocolate_frog_cards.png",
+          "order": 3,
+          "owner": "ron",
+          "house": "gryffindor"
+        },
+        {
+          "id": 12,
+          "name": "scabbers",
+          "img": "scabbers.png",
+          "order": 4,
+          "owner": "ron",
+          "house": "gryffindor"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "full_name": "neville longbottom",
+      "first_name": "neville",
+      "last_name": "longbottom",
+      "house": "gryffindor",
+      "img": "avatar.png",
+      "wand": {
+        "id": 4,
+        "description": "13\" cherry wood, unicorn tail hair",
+        "img": "wand.png",
+        "owner": "neville",
+        "house": "gryffindor"
+        
+      },
+      "possessions": [
+        {
+          "id": 13,
+          "name": "rememberall",
+          "img": "rememberall.png",
+          "order": 1,
+          "owner": "neville",
+          "house": "gryffindor"
+        },
+        {
+          "id": 14,
+          "name": "mimbulus mimbletonia",
+          "img": "mimbulus_mimbletonia.png",
+          "order": 2,
+          "owner": "neville",
+          "house": "gryffindor"
+        },
+        {
+          "id": 15,
+          "name": "trevor",
+          "img": "trevor.png",
+          "order": 3,
+          "owner": "neville",
+          "house": "gryffindor"
+        },
+        {
+          "id": 16,
+          "name": "pointed purple crystal",
+          "img": "pointed_purple_crystal.png",
+          "order": 4,
+          "owner": "neville",
+          "house": "gryffindor"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "full_name": "cedric diggory",
+      "first_name": "cedric",
+      "last_name": "diggory",
+      "house": "hufflepuff",
+      "img": "avatar.png",
+      "wand": {
+        "id": 5,
+        "description": "12 1/4\" ash wood, unicorn tail hair",
+        "img": "wand.png",
+        "owner": "cedric",
+        "house": "hufflepuff"
+        
+      },
+      "possessions": [
+        {
+          "id": 17,
+          "name": "prefect badge",
+          "img": "prefect_badge.png",
+          "order": 1,
+          "owner": "cedric",
+          "house": "hufflepuff"
+        },
+        {
+          "id": 18,
+          "name": "broomstick",
+          "img": "broomstick.png",
+          "order": 2,
+          "owner": "cedric",
+          "house": "hufflepuff"
+        },
+        {
+          "id": 19,
+          "name": "dress robes",
+          "img": "dress_robes.png",
+          "order": 3,
+          "owner": "cedric",
+          "house": "hufflepuff"
+        },
+        {
+          "id": 20,
+          "name": "a guide to advanced transfiguration",
+          "img": "book.png",
+          "order": 4,
+          "owner": "cedric",
+          "house": "hufflepuff"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "full_name": "luna lovegood",
+      "first_name": "luna",
+      "last_name": "lovegood",
+      "house": "ravenclaw",
+      "img": "avatar.png",
+      "wand": {
+        "id": 6,
+        "description": "unknown",
+        "img": "wand.png",
+        "owner": "luna",
+        "house": "ravenclaw"
+        
+      },
+      "possessions": [
+        {
+          "id": 21,
+          "name": "spectrespecs",
+          "img": "spectrespecs.png",
+          "order": 1,
+          "owner": "luna",
+          "house": "ravenclaw"
+        },
+        {
+          "id": 22,
+          "name": "patterned converse sneakers",
+          "img": "converse.png",
+          "order": 2,
+          "owner": "luna",
+          "house": "ravenclaw"
+        },
+        {
+          "id": 23,
+          "name": "butterbeer cork necklace",
+          "img": "necklace.png",
+          "order": 3,
+          "owner": "luna",
+          "house": "ravenclaw"
+        },
+        {
+          "id": 24,
+          "name": "dirigible plum-shaped earrings",
+          "img": "earrings.png",
+          "order": 4,
+          "owner": "luna",
+          "house": "ravenclaw"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "full_name": "draco malfoy",
+      "first_name": "draco",
+      "last_name": "malfoy",
+      "house": "slytherin",
+      "img": "avatar.png",
+      "wand": {
+        "id": 7,
+        "description": "10\" hawthorn wood, unicorn tail hair",
+        "img": "wand.png",
+        "owner": "draco",
+        "house": "slytherin"
+        
+      },
+      "possessions": [
+        {
+          "id": 25,
+          "name": "hand of glory",
+          "img": "hand_of_glory.png",
+          "order": 1,
+          "owner": "draco",
+          "house": "slytherin"
+        },
+        {
+          "id": 26,
+          "name": "peruvian instant darkness powder",
+          "img": "powder.png",
+          "order": 2,
+          "owner": "draco",
+          "house": "slytherin"
+        },
+        {
+          "id": 27,
+          "name": "nimbus 2001",
+          "img": "nimbus_2001.png",
+          "order": 3,
+          "owner": "draco",
+          "house": "slytherin"
+        },
+        {
+          "id": 28,
+          "name": "eagle owl",
+          "img": "eagle_owl.png",
+          "order": 4,
+          "owner": "draco",
+          "house": "slytherin"
         }
       ]
     }
