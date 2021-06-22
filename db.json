@@ -2,6 +2,122 @@
   "questions": [
     {
       "id": 1,
+      "category": "the_dark_arts",
+      "question": "Who laces Professor Slughorn's mead with poison in the hopes of it reaching Dumbledore?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Severus Snape",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": "Bellatrix Lestrange",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": "Draco Malfoy",
+          "correct": true
+        },
+        {
+          "id": 4,
+          "answer": "Lucius Malfoy",
+          "correct": false
+        }
+      ],
+      "character_theme": ["draco"],
+      "house_theme": ["slytherin"]
+    },
+    {
+      "id": 2,
+      "category": "hogwarts",
+      "question": "What medicine does Madam Pomfrey give to Harry to re-grow the bones in his arm?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Bone-Become",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": "Skele-Gro",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "answer": "Skele-Spring",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "answer": "Osteo-Gro",
+          "correct": false
+        }
+      ],
+      "character_theme": ["harry"],
+      "house_theme": ["gryffindor"]
+    },
+    {
+      "id": 3,
+      "category": "magic_spells_and_potions",
+      "question": "What problem is Ron, as Reginald Cattermole, supposed to fix for the Head of the Department of Magical Law Enforcement?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "It is raining in his office",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "answer": "The kettle in his office is biting users",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": "The toilet in his office is regurgitating",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "answer": "The keys to his office keep shrinking",
+          "correct": false
+        }
+      ],
+      "character_theme": ["ron"],
+      "house_theme": ["gryffindor"]
+    },
+    {
+      "id": 4,
+      "category": "magical_objects",
+      "question": "What is the object that the Triwizard champions must find within a large maze in order to complete the third task of the Triwizard Tournament?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sorcerer's Stone",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": "Golden Snitch",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "answer": "Dragon Egg",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "answer": "The Triwizard Cup",
+          "correct": true
+        }
+      ],
+      "character_theme": ["harry", "ron", "hermione", "cho", "cedric"],
+      "house_theme": ["gryffindor", "ravenclaw", "hufflepuff"]
+    },
+    {
+      "id": 5,
       "category": "magical_people",
       "question": "When transporting Harry to a safe house, who does Mundungus Fletcher pair up with?",
       "answers": [
@@ -27,6 +143,35 @@
         }
       ],
       "character_theme": ["harry"],
+      "house_theme": ["gryffindor"]
+    },
+    {
+      "id": 6,
+      "category": "animals_and_magical_creatures",
+      "question": "What Petrified animal do Harry, Ron and Hermione find hanging by her tail in a corridor?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Crookshanks",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "answer": "Mrs. Norris",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "answer": "Scabbers",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "answer": "Fawkes",
+          "correct": false
+        }
+      ],
+      "character_theme": ["harry", "ron", "hermione"],
       "house_theme": ["gryffindor"]
     }
   ],
