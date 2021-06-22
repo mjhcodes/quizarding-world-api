@@ -240,56 +240,6 @@
       ]
     },
     {
-      "id": 4,
-      "full_name": "neville longbottom",
-      "first_name": "neville",
-      "last_name": "longbottom",
-      "house": "gryffindor",
-      "img": "avatar.png",
-      "wand": {
-        "id": 4,
-        "description": "13\" cherry wood, unicorn tail hair",
-        "img": "wand.png",
-        "owner": "neville",
-        "house": "gryffindor"
-        
-      },
-      "possessions": [
-        {
-          "id": 13,
-          "name": "rememberall",
-          "img": "rememberall.png",
-          "order": 1,
-          "owner": "neville",
-          "house": "gryffindor"
-        },
-        {
-          "id": 14,
-          "name": "mimbulus mimbletonia",
-          "img": "mimbulus_mimbletonia.png",
-          "order": 2,
-          "owner": "neville",
-          "house": "gryffindor"
-        },
-        {
-          "id": 15,
-          "name": "trevor",
-          "img": "trevor.png",
-          "order": 3,
-          "owner": "neville",
-          "house": "gryffindor"
-        },
-        {
-          "id": 16,
-          "name": "pointed purple crystal",
-          "img": "pointed_purple_crystal.png",
-          "order": 4,
-          "owner": "neville",
-          "house": "gryffindor"
-        }
-      ]
-    },
-    {
       "id": 5,
       "full_name": "cedric diggory",
       "first_name": "cedric",
@@ -438,26 +388,6 @@
           "house": "slytherin"
         }
       ]
-    }
-  ],
-  "spells": [
-    {
-      "id": 1,
-      "name": "diffindo",
-      "type": "50/50",
-      "description": "severs an object into two pieces"
-    },
-    {
-      "id": 2,
-      "name": "legilimens",
-      "type": "phone",
-      "description": "allows the user to gain access to a person's mind and memories"
-    },
-    {
-      "id": 3,
-      "name": "revelio",
-      "type": "clue",
-      "description": "used to reveal concealed objects, messages, invisible things, and passages"
     }
   ]
 }
