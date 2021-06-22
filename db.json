@@ -87,6 +87,7 @@
       "character_theme": ["ron"],
       "house_theme": ["gryffindor"]
     },
+    /* 
     {
       "id": 4,
       "category": "magical_objects",
@@ -173,7 +174,7 @@
       ],
       "character_theme": ["harry", "ron", "hermione"],
       "house_theme": ["gryffindor"]
-    }
+    } */
   ],
   "characters": [
     {
